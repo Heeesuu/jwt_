@@ -90,12 +90,21 @@ GIF Images
 ## 구현 기능
 
 ### 회원 관리
+
+<br>
+  <img src="image/img_1.png">
+  <br>
+
 회원 가입,
 로그인 관리,
 회원 정보 관리,
 회원 탈퇴
 
 ### 게시글 관리
+<br>
+  <img src="image/img_2.png">
+  <br>
+
 게시글 작성,
 게시글 수정,
 게시글 삭제,
@@ -104,16 +113,30 @@ GIF Images
 좋아요 기능
 
 ### 위치 · 날씨 API
+
+<br>
+  <img src="image/img_3.png">
+  <br>
+
 위치 정보 조회,
 날씨 정보 조회,
 행정구역 정보 조회
 
 
 ### 소셜
+
+<br>
+  <img src="image/img_4.png">
+  <br>
+
 팔로잉 기능,
 팔로잉 게시물 정렬
 
 ### 게시글 추천
+<br>
+  <img src="image/img_5.png">
+  <br>
+
 회원 정보에 가중치 추가,
 거리순 정렬,
 좋아요 순 정렬,
