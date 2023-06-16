@@ -86,7 +86,6 @@ GIF Images
 
 <br>
 
-## 배운 점 & 아쉬운 점
 
 <p align="justify">
 
