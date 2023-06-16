@@ -23,16 +23,16 @@
       <td align="center">조희권</td>
     </tr>
     <tr>
-      <td align="center"><a href="" target="_blank"></a></td>
-      <td align="center"><a href="" target="_blank" width="160"></a></td>
-      <td align="center"><a href="" target="_blank">@Heeesuu</a></td>
-      <td align="center"><a href="" target="_blank"></a></td>
+      <td align="center"><a href="https://github.com/daxx0ne" target="_blank">@daxx0ne</a></td>
+      <td align="center"><a href="https://github.com/hojunking96" target="_blank" width="160">@hojunking96</a></td>
+      <td align="center"><a href="https://github.com/Heeesuu" target="_blank">@Heeesuu</a></td>
+      <td align="center"><a href="https://github.com/HeegwonJo" target="_blank">@Joyfulgwon</a></td>
     </tr>
     <tr>
-      <td align="center">Backend Developer</td>
-      <td align="center">Backend Developer</td>
-      <td align="center">Backend Developer</td>
-      <td align="center">Backend Developer</td>
+      <td align="center">Backend</td>
+      <td align="center">Backend</td>
+      <td align="center">Backend</td>
+      <td align="center">Backend</td>
     </tr>
     <tr>
       <td align="center">회원 관리</td>
@@ -69,38 +69,63 @@ GIF Images
 <br>
 
 ## 기술 스택
+<div align=center> 
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">  
+  <br>
 
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-
-
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
 <br>
+
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+
+
 
 ## 구현 기능
 
-### 기능 1
+### 회원 관리
+회원 가입,
+로그인 관리,
+회원 정보 관리,
+회원 탈퇴
 
-### 기능 2
+### 게시글 관리
+게시글 작성,
+게시글 수정,
+게시글 삭제,
+게시글 태그,
+이미지 업로드,
+좋아요 기능
 
-### 기능 3
+### 위치 · 날씨 API
+위치 정보 조회,
+날씨 정보 조회,
+행정구역 정보 조회
 
-### 기능 4
+
+### 소셜
+팔로잉 기능,
+팔로잉 게시물 정렬
+
+### 게시글 추천
+회원 정보에 가중치 추가,
+거리순 정렬,
+좋아요 순 정렬,
+날씨에 맞춰 정렬
+
+### 알림
+팔로잉 알림,
+좋아요 알림
 
 <br>
 
+----
 
-<p align="justify">
-
+<p>
 </p>
-
-<br>
-
-## 라이센스
-
-MIT &copy; [NoHack](mailto:lbjp114@gmail.com)
-
-<!-- Stack Icon Refernces -->
-
-[js]: /images/stack/javascript.svg
-[ts]: /images/stack/typescript.svg
-[react]: /images/stack/react.svg
-[node]: /images/stack/node.svg
